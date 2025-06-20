@@ -108,6 +108,33 @@ Naming your resources helps keep your network infrastructure organized, especial
 
 <img width="693" alt="Screenshot 2025-06-20 at 4 39 25 pm" src="https://github.com/user-attachments/assets/9398ddae-e04f-438b-a66a-180962d24f0c" />
 
+Then you will see  this 
 
 
+<img width="644" alt="Screenshot 2025-06-20 at 4 43 11 pm" src="https://github.com/user-attachments/assets/abcdac6f-1c8e-4136-801c-4c7e8dc7f38a" />
 
+<img width="644" alt="Screenshot 2025-06-20 at 4 43 33 pm" src="https://github.com/user-attachments/assets/35f182d6-f2c0-4684-9343-87cb993a83f0" />
+
+Now you can accept.
+
+<img width="463" alt="Screenshot 2025-06-20 at 4 44 20 pm" src="https://github.com/user-attachments/assets/7eb04a9d-ed31-4748-967e-390f0f246aaa" />
+
+now click on main route table ID of the accpeter VPC
+
+<img width="645" alt="Screenshot 2025-06-20 at 4 45 50 pm" src="https://github.com/user-attachments/assets/3d754999-5bfc-4cec-a99c-ef56e2d6eb22" />
+
+choose the route table
+
+<img width="646" alt="Screenshot 2025-06-20 at 4 47 31 pm" src="https://github.com/user-attachments/assets/24ba24cf-e91d-459c-a730-27efec2353f8" />
+
+add route 
+<img width="646" alt="Screenshot 2025-06-20 at 4 47 31 pm" src="https://github.com/user-attachments/assets/fd568aa7-352a-452a-81c7-3172a1be45b2" />
+
+
+Go to PVC and selete request.
+
+<img width="646" alt="Screenshot 2025-06-20 at 4 52 00 pm" src="https://github.com/user-attachments/assets/a622387c-2ddd-496d-8cc4-258099243f2d" />
+
+choose the table , then navigate to the routes and click edit route.
+
+<img width="646" alt="Screenshot 2025-06-20 at 4 57 31 pm" src="https://github.com/user-attachments/assets/97748d95-08df-475f-b40e-ce285d674a9d" />
