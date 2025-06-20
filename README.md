@@ -79,9 +79,34 @@ Selete Destination as 0.0.0.0/0. indicationg that every Ipv4 address can access 
 
 <img width="1429" alt="Screenshot 2025-06-20 at 3 53 28 pm" src="https://github.com/user-attachments/assets/dfdb2b43-c50e-4eb9-a639-8d1f198467f7" />
 
+the route table has noow been configured
+
+<img width="1206" alt="Screenshot 2025-06-20 at 3 58 24 pm" src="https://github.com/user-attachments/assets/aab61e69-8ec6-41b2-a071-4ff7924514b6" />
 
 
+Navigate to the NAT Gateway section and click on the create NAt Gateway
 
+<img width="1412" alt="Screenshot 2025-06-20 at 3 59 36 pm" src="https://github.com/user-attachments/assets/759b8b2e-b6c1-4fbc-bdfd-9d0c6f45a097" />
+chose the private.
+
+<img width="1415" alt="Screenshot 2025-06-20 at 4 01 24 pm" src="https://github.com/user-attachments/assets/59865973-38d6-4bfe-a928-1a1e25cc4a41" />
+
+<img width="1391" alt="Screenshot 2025-06-20 at 4 05 03 pm" src="https://github.com/user-attachments/assets/b6859230-1f89-49c0-b869-1db7e75a22ed" />
+
+
+Your NAT Gateway has been created sucessfully
+
+<img width="1209" alt="Screenshot 2025-06-20 at 4 06 18 pm" src="https://github.com/user-attachments/assets/d34ce73f-95aa-4da4-a479-063a37dbe90c" />
+
+edit your subnet association 
+
+
+<img width="644" alt="Screenshot 2025-06-20 at 4 43 11 pm" src="https://github.com/user-attachments/assets/873ce1bd-bb6c-4560-b7e7-aab0ff484dec" />
+
+Now, provide a name for both your VPC and the peering connection in AWS.
+Naming your resources helps keep your network infrastructure organized, especially when managing multiple VPCs and connections. A descriptive name makes it easier to identify the purpose of each component at a glance.
+
+<img width="693" alt="Screenshot 2025-06-20 at 4 39 25 pm" src="https://github.com/user-attachments/assets/9398ddae-e04f-438b-a66a-180962d24f0c" />
 
 
 
